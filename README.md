@@ -1,4 +1,4 @@
-# Optimization-Image-Classifiers
+# Optimization-Image-Classifier
 
 This project explores techniques for optimizing image classifiers, showcasing experiments, code examples, and results for various classifier optimization strategies using Jupyter Notebooks.
 Perfect for students, researchers, and practitioners looking to boost their understanding of image classification and optimization.
