@@ -4,21 +4,21 @@ This project explores techniques for optimizing image classifiers, showcasing ex
 Perfect for students, researchers, and practitioners looking to boost their understanding of image classification and optimization.
 
 
-🚀 Project Highlights
+##🚀 Project Highlights
 
-Image Preprocessing:
+###Image Preprocessing:
 Notebooks demonstrate techniques such as histogram equalization, edge detection, and image masking, laying the groundwork for efficient feature extraction.
 
-Classifier Optimization:
+###Classifier Optimization:
 Experiments explore different approaches to boost model accuracy, such as tweaking input features, modifying preprocessing steps, and iteratively refining classifier parameters.
 
-Step-by-Step Experimentation:
+###Step-by-Step Experimentation:
 Milestone notebooks document the iterative process, from initial data handling through to advanced optimization and model evaluation.
 
-Comprehensive Documentation:
+###Comprehensive Documentation:
 The included PDF report (CSE473_MajorTask_Fall2022.pdf) provides thorough background, methodology, observations, and conclusions.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 Python (via Jupyter Notebooks)
 
@@ -27,7 +27,7 @@ OpenCV for image processing
 NumPy, Matplotlib for analysis and plotting
 
 
-Explore the Notebooks:
+##Explore the Notebooks
 Open the .ipynb files in Jupyter Notebook or Jupyter Lab.
 Follow the sequence:
 
