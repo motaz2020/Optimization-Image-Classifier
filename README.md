@@ -4,7 +4,7 @@ This project explores techniques for optimizing image classifiers, showcasing ex
 Perfect for students, researchers, and practitioners looking to boost their understanding of image classification and optimization.
 
 
-##🚀 Project Highlights
+## **🚀 Project Highlights**
 
 ###Image Preprocessing:
 Notebooks demonstrate techniques such as histogram equalization, edge detection, and image masking, laying the groundwork for efficient feature extraction.
