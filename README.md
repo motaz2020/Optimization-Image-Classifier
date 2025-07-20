@@ -6,7 +6,7 @@ Perfect for students, researchers, and practitioners looking to boost their unde
 
 ## **🚀 Project Highlights**
 
-###Image Preprocessing:
+### **Image Preprocessing: **
 Notebooks demonstrate techniques such as histogram equalization, edge detection, and image masking, laying the groundwork for efficient feature extraction.
 
 ###Classifier Optimization:
